@@ -23,7 +23,7 @@ namespace eSyaPatientManagement.DL.Repository
             _billingTransactionRepository = billingTransactionRepository;
             _receiptTransactionRepository = receiptTransactionRepository;
         }
-        //GT_ESDOCD QUALIFICATION COLUMN MISSED
+        /*GT_ESDOCD QUALIFICATION COLUMN MISSED*/
         //GT_ADDRIN REMOVED
         //GT_ESDOS2 SCHEDULE DATE REMOVED
         //GT_ESDOCD TIME SLOT IN MINUTES REMOVED
