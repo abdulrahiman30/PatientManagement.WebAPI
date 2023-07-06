@@ -1,0 +1,35 @@
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.deps.json
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csproj.CoreCompileInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfoInputs.cache
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfo.cs
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\eSya Project\Solution\Project_eSyaWebAPI\eSyaPatientManagement.WebAPI\trunk\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csprojAssemblyReference.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.deps.json
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csprojAssemblyReference.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfo.cs
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\OfficeWorkingProjects\AllWEBAPI\eSyaAPI's\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.deps.json
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\bin\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csproj.CoreCompileInputs.cache
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfoInputs.cache
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.AssemblyInfo.cs
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.dll
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.pdb
+D:\OfficeWorkingProjects\ESYA-GESTALT-WORKING\PatientManagement.WebAPI\eSyaPatientManagement.DO\eSyaPatientManagement.DO\obj\Debug\netcoreapp2.2\eSyaPatientManagement.DO.csprojAssemblyReference.cache
